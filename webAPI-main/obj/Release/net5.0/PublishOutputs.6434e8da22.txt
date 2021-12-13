@@ -1,0 +1,17 @@
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.exe
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\appsettings.json
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.runtimeconfig.json
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.pdb
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Npgsql.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.xml
+C:\Users\lobo1\Desktop\tarea\webAPI-main\bin\Release\net5.0\publish\webAPI.deps.json

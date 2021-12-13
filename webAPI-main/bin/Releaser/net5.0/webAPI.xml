@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webAPI</name>
+    </assembly>
+    <members>
+        <member name="T:webAPI.Controllers.BibliotecaController">
+            <summary>
+             Wen api de gestion de Biblioteca
+            </summary>
+        </member>
+        <member name="M:webAPI.Controllers.BibliotecaController.GetBiblioteca">
+            <summary>
+             List of Registered books  
+            </summary>
+            <remarks>
+             It contains the list of all the books that our library of books has. 
+            </remarks>
+            <response code="200">ok. Returns the objects requested(book) by the user </response> 
+            <response code="404">Not. found. The object requested by the user was not found </response> 
+        </member>
+        <member name="M:webAPI.Controllers.BibliotecaController.GetBibliotecaByID(System.Int32)">
+            <summary>
+             List of books registered by id 
+            </summary>
+            <param name="id">Id (isdBiblioteca)of the object </param>
+            <remarks>
+             The data is entered to enter a new book to our library  
+            </remarks>
+            <response code="200">ok. Returns the objects(new book) requested by the user </response> 
+            <response code="404">Not. found. The object requested by the user was not found </response> 
+        </member>
+        <member name="M:webAPI.Controllers.BibliotecaController.PostBiblioteca(webAPI.Models.Biblioteca)">
+            <summary>
+             new book registration for the library 
+            </summary>
+            <param name="biblioteca"> </param>
+            <remarks>
+             It is a record of books by id as its name indicates, you should enter the id of the book to show the information of the book 
+            </remarks>
+            <response code="200">ok. Returns the objects requested by the user </response> 
+            <response code="404">Not. found. The object requested by the user was not found </response> 
+        </member>
+        <member name="M:webAPI.Controllers.BibliotecaController.PutBiblioteca(System.Int32,webAPI.Models.Biblioteca)">
+            <summary>
+             Book information update according to your id 
+            </summary>
+            <param name="id">Id (isdBiblioteca)of the object </param>
+            <param name="biblioteca"> </param>
+            <remarks>
+             As the book with its information has already been created in the other obsessions, this tab is used for its edition if we have made a mistake in something 
+            </remarks>
+            <response code="200">ok. Devuelve los objetos solicitados por el usuario</response> 
+            <response code="404">Not. found. No se ha encontrado el objeto solicitado por el usuario</response> 
+        </member>
+        <member name="M:webAPI.Controllers.BibliotecaController.DeleteBiblioteca(System.Int32)">
+            <summary>
+             book deletion by id 
+            </summary>
+            <param name="id"> </param>
+            <remarks>
+             in this section the desired book is deleted by inserting its id 
+            </remarks>
+            <response code="200">ok. the book that the user deleted is returned  </response> 
+            <response code="404">Not. The id of the book that the user requested for deletion was not found  </response> 
+        </member>
+    </members>
+</doc>
